@@ -18,7 +18,7 @@
 ***
 ## 專案介紹：<br/>
 
-* 主要建材：台灣杉。
+* 主要建材：台灣杉 [3 x 15.6 x 360cm] 和 [4.5 x 18.6 x 360cm] 尺寸。
 * 數位模型［整體木構3D］：
 
 樹環模型 Model of the Tree Circle, Only the Platform and Structures<br/>
