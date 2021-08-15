@@ -21,9 +21,11 @@
 * 主要建材：台灣杉。
 * 數位模型［整體木構3D］：
 
-https://skfb.ly/opsI7
-
-![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_Sketchfab_Model/CBMC_Sketchfab_Model.png)
+樹環模型<br/>
+Digital Model Link: https://skfb.ly/opsI7
+<br/>
+<br/>
+![image](https://github.com/linghsuanh/2020_Hualian_Xincheng-Tree-Circle/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XTC_Sketchfab_Model/XTC_Sketchfab_Model_01.png)
 <br/>
 <br/>
 ***
