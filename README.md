@@ -1,6 +1,6 @@
 # 2020_Huanlian_Xincheng Tree Circle
 
->Humanitarian Architecture in Taitung<br/>
+>Humanitarian Architecture in Hualian<br/>
 >
 >以台灣國產木材為主體構築材料之人道建築案例，主要材料來源自：行政院農業委員會林務局「台灣木材」標章、正昌製材有限公司「台灣杉」及東皇昌五金工具有限公司。由交通大學建築研究所發展設計，與大安高工建築科及交通大學東南亞志工團等學校單位合作進行實作。<br/>
 
