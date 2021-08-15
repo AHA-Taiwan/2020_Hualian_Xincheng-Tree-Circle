@@ -12,9 +12,9 @@
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/County/County.html?CID=10014 <br/>
 * 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=467660&stname=%25E8%2587%25BA%25E6%259D%25B1&datepicker=2021-07-19 <br/>
 
-* Google Map 位置：https://goo.gl/maps/nYVf215Q8UMeJW5S6  <br/>
+* Google Map 位置：https://goo.gl/maps/viFiD16mexDkdh8R8<br/>
 
-![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_GMap.png)
+![image](https://github.com/linghsuanh/2020_Hualian_Xincheng-Tree-Circle/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XTC_GMap.png)
 ***
 ## 專案介紹：<br/>
 
