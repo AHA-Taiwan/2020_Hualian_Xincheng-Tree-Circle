@@ -14,7 +14,7 @@
 
 * Google Map 位置：https://goo.gl/maps/viFiD16mexDkdh8R8<br/>
 
-![image](https://github.com/linghsuanh/2020_Hualian_Xincheng-Tree-Circle/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XTC_GMap.png)
+![image](https://github.com/AHA-Taiwan/2020_Hualian_Xincheng-Tree-Circle/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/XTC_GMap.png)
 ***
 ## 專案介紹：<br/>
 
