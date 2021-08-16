@@ -1,4 +1,4 @@
-# 2020_Huanlian_Xincheng Tree Circle
+# 2020_Hualian_Xincheng Tree Circle
 
 >Humanitarian Architecture in Hualian<br/>
 >
