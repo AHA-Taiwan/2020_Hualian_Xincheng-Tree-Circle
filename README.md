@@ -1,6 +1,6 @@
-# 2020_Hualian_Xincheng Tree Circle
+# 2020_Hualien_Xincheng Tree Circle
 
->Humanitarian Architecture in Hualian<br/>
+>Humanitarian Architecture in Hualien<br/>
 >
 >以台灣國產木材為主體構築材料之人道建築案例，主要材料來源自：行政院農業委員會林務局「台灣木材」標章、正昌製材有限公司「台灣杉」及東皇昌五金工具有限公司。由交通大學建築研究所發展設計，與大安高工建築科及交通大學東南亞志工團等學校單位合作進行實作。<br/>
 
@@ -10,7 +10,8 @@
 ## 基地環境：<br/>
 台灣東南地區，北回歸線以南，有焚風、颱風、東北季風，海風具高度鹽分，設計時需注意材料防潮防蝕保護。<br/>
 * 基地環境氣象資料：https://www.cwb.gov.tw/V8/C/W/Town/Town.html?TID=1001504<br/>
-* 氣象觀測歷史紀錄：https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=C0Z180&stname=%25E6%2596%25B0%25E5%259F%258E&datepicker=2021-08-14<br/>
+* 氣象觀測歷史紀錄：<br/>
+https://e-service.cwb.gov.tw/HistoryDataQuery/DayDataController.do?command=viewMain&station=C0Z180&stname=%25E6%2596%25B0%25E5%259F%258E&datepicker=2021-08-14<br/>
 
 * 花蓮縣縣氣候月平均氣溫、月平均降雨量、風速與相對濕度數據圖表<br/>
  （取自交通部中央氣象局，統計期間為 1991-2020 年）<br/>
@@ -23,8 +24,8 @@
 ***
 ## 專案介紹：<br/>
 
-* 主要建材：台灣杉 [3 x 15.6 x 360cm] 和 [4.5 x 18.6 x 360cm] 尺寸。
-* 數位模型［整體木構3D］：
+* 主要建材：台灣杉 [ 3 x 15.6 x 360 cm ] 和 [ 4.5 x 18.6 x 360 cm ] 尺寸。
+* 數位模型［ 整體木構3D ］：
 
 樹環模型 Model of the Tree Circle, Only the Platform and Structures<br/>
 Digital Model Link: https://skfb.ly/opsI7
