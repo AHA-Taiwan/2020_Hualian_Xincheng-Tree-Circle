@@ -1,4 +1,5 @@
-# 2020_Hualien_Xincheng Tree Circle
+# 2020｜花蓮新城國小｜步環新城
+## Xincheng Elementary, Tree Circle 
 
 >Humanitarian Architecture in Hualien<br/>
 >
